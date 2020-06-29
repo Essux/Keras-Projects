@@ -6,11 +6,11 @@ Submission for a [Kaggle competition](https://www.kaggle.com/c/dog-breed-identif
 
 ## Scrobbling Predictor
 
-Music listening habits prediction as time series. A LSTM network was used.
+Music listening habits prediction as time series from my own data. A LSTM network was used.
 
 ## Song Encoder
 
-This project explores the possibility of encoding songs as fixed length vectors. A custom AutoEncoder using negative sampling was trained and existing library solutions where also considered. 
+This project explores the possibility of encoding songs as fixed length vectors. A custom AutoEncoder using negative sampling was trained using my own data and existing library solutions were also considered. 
 
 
 ## FashionMNIST
